@@ -1,0 +1,15 @@
+Player 1
+OO___
+_BO__
+B__X_
+____B
+___X_
+Player 2
+_X___
+_____
+___X_
+BO__B
+_X_O_
+P1: 3
+P2: 2
+Player 1 wins
